@@ -45,7 +45,7 @@
   width: 100vw;
   max-width: 100vw;
   background-image: url('./assets/background.jpg');
-  background-size: contain;
+  background-size: 100% auto;
   background-position: center;
   background-repeat: no-repeat;
   display: flex;
