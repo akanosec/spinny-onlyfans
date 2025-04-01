@@ -17,7 +17,7 @@ function App() {
     <div className="app-container">
       <audio
         ref={audioRef}
-        src="./assets/background-music.m4a"
+        src="./assets/background-music.mp3"
         loop
       />
       <div className="video-container">
