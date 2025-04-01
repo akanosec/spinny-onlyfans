@@ -17,13 +17,13 @@ function App() {
     <div className="app-container">
       <audio
         ref={audioRef}
-        src="/assets/background-music.m4a"
+        src="./assets/background-music.m4a"
         loop
       />
       <div className="content">
         <div className="gif-container">
-          <img src="/assets/spinny-fan.gif" alt="Spinny Fan 1" className="spinny-gif" />
-          <img src="/assets/spinny-fan.gif" alt="Spinny Fan 2" className="spinny-gif" />
+          <img src="./assets/spinny-fan.gif" alt="Spinny Fan 1" className="spinny-gif" />
+          <img src="./assets/spinny-fan.gif" alt="Spinny Fan 2" className="spinny-gif" />
         </div>
         <a 
           href="https://spinnycat.com" 
