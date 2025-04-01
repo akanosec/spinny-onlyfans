@@ -28,7 +28,7 @@ function App() {
           playsInline
           className="background-video"
         >
-          <source src="/assets/spinnycatonlyfans.mov" type="video/quicktime" />
+          <source src="./assets/spinnycatonlyfans.mov" type="video/quicktime" />
         </video>
       </div>
       <a 
